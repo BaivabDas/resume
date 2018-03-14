@@ -1,0 +1,99 @@
+{
+  "basics": {
+    "name": "Baivab Das",
+    "label": "Student",
+    "picture": "",
+    "email": "xyz@xyz.com",
+    "phone": "78945611223",
+    "degree": "btech",
+    "website": "abcde.com",
+    "summary": "",
+    "highlights": null,
+    "location": {
+      "address": "RVS Nagar",
+      "postalCode": "517127",
+      "city": "Chittoor",
+      "countryCode": "",
+      "region": "AP"
+    },
+    "profiles": [
+      {
+        "network": "github",
+        "username": "BaivabDas",
+        "url": "https://github.com/baivabdas"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "",
+      "position": "",
+      "website": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
+      "highlights": [
+        ""
+      ]
+    }
+  ],
+  "additionalWork": [
+    {
+      "company": "",
+      "position": "",
+      "website": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
+      "highlights": [
+        ""
+      ]
+    }
+  ],
+  "workLabel": "",
+  "additionalWorkLabel": "",
+  "education": [
+    {
+      "institution": "",
+      "area": "",
+      "studyType": "",
+      "startDate": "",
+      "endDate": "",
+      "gpa": "",
+      "courses": [
+        ""
+      ]
+    }
+  ],
+  "publications": [
+    {
+      "name": "",
+      "publisher": "",
+      "releaseDate": "",
+      "website": "",
+      "summary": "",
+      "isbn": ""
+    }
+  ],
+  "additionalPublications": [
+    {
+      "name": "",
+      "publisher": "",
+      "releaseDate": "",
+      "website": "",
+      "summary": "",
+      "isbn": ""
+    }
+  ],
+  "publicationsLabel": "",
+  "additionalPublicationsLabel": "",
+  "skills": [
+    {
+      "name": "",
+      "level": "",
+      "keywords": [
+        ""
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "career":{
+      "data":"career objective"
+  },
+  "education": [
+    {
+      "degree":"B-Tech(C.S.E)",
+      "college":"SVCET",
+      "data":["2015-19","70%"]
+    },
+      {
+      "degree":"Intermediate(HSC)",
+      "college":"DCC",
+      "data":["2012-14","GPA 5.00/5.00"]
+    },
+
+    {
+      "degree":"SSC",
+      "college":"DGBHS",
+      "data":["2011-12","GPA 5.00/5.00"]
+    }
+]
+}
